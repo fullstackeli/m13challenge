@@ -1,3 +1,24 @@
+# Module 13 Challenge
+
+This project is a completed candidate search application that calls the GitHub API and renders data in the browser.
+
+
+## Deployment & Repo
+Render: https://m13challenge.onrender.com
+
+GitHub Repo: https://github.com/fullstackeli/m13challenge
+
+## Installation
+
+Run 'npm install' to install dependencies.
+
+    
+## Usage
+
+
+Run 'npm start'
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -31,3 +52,7 @@ export default {
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## Acknowledgements
+
+ - https://readme.so/editor# React + TypeScript + Vite
