@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "install": "npm install react react-dom && npm install --save-dev @types/react",
-    "start": "npm i && npm run dev",
+    "start": "npm run dev",
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
