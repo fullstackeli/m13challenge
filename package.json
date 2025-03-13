@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "install": "npm install react react-dom && npm install --save-dev @types/react && npm run build",
+    "install": "npm install react react-dom && npm install --save-dev @types/react",
     "start": "npm i && npm run dev",
     "dev": "vite",
     "build": "tsc && vite build",
